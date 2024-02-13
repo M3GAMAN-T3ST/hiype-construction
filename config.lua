@@ -20,8 +20,8 @@ Config.DeliveryTruck.SpawnLocation = vector4(-121.66, -1041.46, 27.27, 236.55)
 Config.DeliveryTruck.RentPrice = 500
 Config.DeliveryTruck.RentReturn = 200
 Config.DeliveryTruck.SignTime = 7000
-Config.DeliveryTruck.RentPriceType = 'cash'
-Config.DeliveryTruck.RentReturnPriceType = 'cash'
+Config.DeliveryTruck.RentPriceType = 'bank'
+Config.DeliveryTruck.RentReturnPriceType = 'bank'
 Config.DeliveryTruck.RentReturnDistance = 30
 
 Config.ConstructionSites = {
